@@ -1,5 +1,4 @@
 # dmri_pipeline_comparison
-Outside project comparing how well two dMRI preprocessing pipelines correct for motion in children's dMRI data
 
 This repository contains some results from when I compared two open-source preprocessing pipelines to see how well they handle motion in kids' diffusion MRI (dMRI) data. 
 
